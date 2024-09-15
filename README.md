@@ -7,7 +7,7 @@ Slide Game is a 2048-like puzzle game where the player must move tiles on a grid
 
 The twist is that the tiles can also move diagonally, rather than just up/down and left/right!
 
-This game runs fully in a JavaFX UI, and does not require console input. 
+This game runs fully in a JavaFX GUI, and does not require console input. 
 
 ### Files
 
