@@ -18,8 +18,6 @@ import java.util.Random;
 /**
  * SlideGame.java contains the JavaFX elements and corresponding game logic, located in the nested GameLogic class,
  * to create a 2048-like game, where a player can slide tiles on a board to merge their values.
- *
- * @author Graham Girone
  */
 public class SlideGameUI extends Application {
     // Stores the JavaFX buttons for the game board GUI
