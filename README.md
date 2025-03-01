@@ -1,5 +1,9 @@
 # javafx-diagonal-2048
-## AKA Slide Game
+<img width="500" alt="Screenshot 2025-03-01 at 2 30 13 AM" src="https://github.com/user-attachments/assets/a58bea77-ccd0-4111-8b5a-a923c030bd84" />
+<img width="312" alt="Screenshot 2025-03-01 at 2 30 28 AM" src="https://github.com/user-attachments/assets/3c1b1270-2f83-40d2-a4c2-d80cfe4ff473" />
+<img width="500" alt="Screenshot 2025-03-01 at 2 31 23 AM" src="https://github.com/user-attachments/assets/5b35564d-9678-4a91-ae2c-50406dd5c03c" />
+<img width="400" alt="Screenshot 2025-03-01 at 2 30 54 AM" src="https://github.com/user-attachments/assets/2bd53d3a-fc94-4e9c-a46c-edf86cdee174" />
+
 
 ### Overview
 
