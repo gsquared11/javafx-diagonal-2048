@@ -6,8 +6,6 @@ import java.io.*;
 
 /**
  * This class tests the non-GUI logic functions of SlideGame.java.
- *
- * @author Graham Girone
  */
 public class SlideGameTest {
     /**
