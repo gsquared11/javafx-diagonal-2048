@@ -27,7 +27,10 @@ This game runs fully in a JavaFX GUI, and does not require console input.
      
 3. FinalSlideGameSHADED.jar
     - An experimental .jar file that contains the JavaFX dependencies and POTENTIALLY can allow you to run the game without setting up a special JavaFX environment.
-    - "POTENTIALLY" because it only seems to run on macOS and with Java 22. 
+    - "POTENTIALLY" because it only seems to run on macOS and with Java 22.
+  
+4. SlideGameTest.java
+   - Set of JUnit tests for the core logic of the game. 
 
 
 ### How to Play
