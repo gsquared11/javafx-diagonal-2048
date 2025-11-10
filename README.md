@@ -28,6 +28,9 @@ This game runs fully in a JavaFX GUI, and does not require console input.
 3. FinalSlideGameSHADED.jar
     - An experimental .jar file that contains the JavaFX dependencies and can allow you to run the game without setting up a special JavaFX environment.
     - Requires macOS and with Java 22.
+    - Make sure to allow the following by going to Settings -> Privacy & Security -> Open anwyay
+    - <img width="946" height="222" alt="image" src="https://github.com/user-attachments/assets/534f5566-f1ea-4f16-a1e4-2b21b6a92bea" />
+
   
 4. SlideGameTest.java
    - Set of JUnit tests for the core logic of the game. 
